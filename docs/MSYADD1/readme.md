@@ -6,3 +6,5 @@ Wayne Denise Dizon https://github.com/waynedizon
 Jason Patrick Lino https://github.com/JasonLino
 
 Paul Lawrence Saballo https://github.com/plsaballo08
+
+Jetter Garcia https://github.com/jetsgarcia
