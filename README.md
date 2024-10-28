@@ -2,8 +2,8 @@
 
 **Designed to Streamline Content Delivery, Online Examination, and Grade Management for the Training Centers of Philippine Army**
 
-🚀 **Live Demo**: [Explore Atlas Now](https://atlas-omega-ebon.vercel.app/login)  
-🔧 **GitHub Repository**: [Check out the Code](https://github.com/plsaballo08/atlas)
+🚀 **Live Demo**: [Explore Atlas Now](https://atlas-black.vercel.app/)  
+🔧 **GitHub Repository**: [Check out the Code](https://github.com/jetsgarcia/atlas)
 
 ---
 
