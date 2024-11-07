@@ -2,7 +2,18 @@
 
 **Designed to Streamline Content Delivery, Online Examination, and Grade Management for the Training Centers of Philippine Army**
 
-🚀 **Live Demo**: [Explore Atlas Now](https://atlas-black.vercel.app/)  
+🚀 **Try the Atlas Demo Live!**: [Explore Atlas Now](https://atlas-black.vercel.app/)
+
+### Login Credentials
+**For Student Access:**
+- **Email**: `sample@student.edu.ph`
+- **Password**: `123123`
+
+**For Admin Access:**
+- **Email**: `sample@admin.ph`
+- **Password**: `123123`
+
+
 🔧 **GitHub Repository**: [Check out the Code](https://github.com/jetsgarcia/atlas)
 
 ---
