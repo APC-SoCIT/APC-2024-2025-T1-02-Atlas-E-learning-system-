@@ -4,17 +4,8 @@
 
 🚀 **Try the Atlas Demo Live!**: [Explore Atlas Now](https://atlas-black.vercel.app/)
 
-### Login Credentials
-**For Student Access:**
-- **Email**: `sample@student.edu.ph`
-- **Password**: `123123`
-
-**For Admin Access:**
-- **Email**: `sample@admin.ph`
-- **Password**: `123123`
-
-
 🔧 **GitHub Repository**: [Check out the Code](https://github.com/jetsgarcia/atlas)
+Note: Vercel requires a personal repository to host a website publicly. As a result, we cannot use this organizational repository for the project.
 
 ---
 
