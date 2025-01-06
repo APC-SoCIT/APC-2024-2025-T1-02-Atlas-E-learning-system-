@@ -5,6 +5,7 @@
 🚀 **Try the Atlas Demo Live!**: [Explore Atlas Now](https://atlas-black.vercel.app/)
 
 🔧 **GitHub Repository**: [Check out the Code](https://github.com/jetsgarcia/atlas)
+
 Note: Vercel requires a personal repository to host a website publicly. As a result, we cannot use this organizational repository for the project.
 
 ---
