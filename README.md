@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 # 📖 **Atlas - E-learning System**
 
 **Designed to Streamline Content Delivery, Online Examination, and Grade Management for the Training Centers of Philippine Army**
 
-🚀 **Try the Atlas Demo Live!**: [Explore Atlas Now](https://atlas-black.vercel.app/)
-
-🔧 **GitHub Repository**: [Check out the Code](https://github.com/jetsgarcia/atlas)
-
-Note: Vercel requires a personal repository to host a website publicly. As a result, we cannot use this organizational repository for the project.
+🚀 **Try the Atlas Demo Live!**: [Explore Atlas Now](https://atlas-mauve-mu.vercel.app)
 
 ---
 
@@ -53,23 +48,14 @@ Atlas is being developed by a dedicated team of developers working together to d
 - **Paul Lawrence C. Saballo** - _Programmer_: Creating algorithms and coding different features for the system.
 
 ---
-=======
-# AI-Powered E-Learning System
-
-The **AI-Powered E-Learning System** is a robust software solution designed to enhance the training programs of the **Philippine Army**. This system leverages modern web technologies to provide a seamless and interactive learning experience.
-
-## 🚀 Features
-
-- **AI-Enhanced Content Delivery** - Personalized learning experiences based on AI recommendations.
-- **Online Examinations** - Secure and automated assessment management.
-- **Grade Management** - Comprehensive tracking of student progress.
-- **User-Friendly Interface** - Intuitive design for ease of use.
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: [Next.js](https://nextjs.org/)
 - **Deployment**: [Vercel](https://vercel.com/)
 - **Database**: [Neon](https://neon.tech/)
+
+---
 
 ## 📦 Installation
 
@@ -92,4 +78,3 @@ The **AI-Powered E-Learning System** is a robust software solution designed to e
    ```
    The application will be available at `http://localhost:3000`
    
->>>>>>> old/main
